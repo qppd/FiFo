@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466983320214",
+    "project_id": "fifov2",
+    "storage_bucket": "fifov2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466983320214:android:a358831d787c51a022a0b7",
+        "android_client_info": {
+          "package_name": "com.qppd.fifov2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSghNTIfCorKLNwmoIKs0QD43Zf_9y6B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

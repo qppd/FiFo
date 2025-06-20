@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">FIFO</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_history">History</string>
+    <string name="title_note">Note</string>
+    <string name="title_setting">Settings</string>
+
+    <string name="about">\u0009\u0009\u0009\u0009Download Fifo for free and start taking control of
+        your personal finance and monthly budget planning. Fifo is a good budget app to track
+        spending and expenses. A good budget maker and expense tracker for everyone.
+        This is a good finance calculator while user-friendly allowing easy money management.
+        The key to financial success is money management. Fifo brings to you a good finance
+        calculator to help you plan your budget, record your transactions, forecast your budget and
+        save money.</string>
+
+    <string name="about2">\u0009\u0009\u0009\u0009Take control of your finances by using a good
+        budget planner and finance tracker allowing you to create your monthly budget. Track
+        spending, and bring you great insights about your spending habits. Our app allows you to
+        manage your money better and save money for investment or projects. Fifo provides you with
+        a major need to have features for free. With just a touch of your finger you can access the
+        core functionalities of this budget app such adding income, expense account, and custom
+        budget category.</string>
+
+    <string name="about3">\u0009\u0009\u0009\u0009Here are some Fifo top features that make it such
+        a powerful budgeting tool:</string>
+
+    <string name="about4">★ Simple dashboard: View your cash flow, earning, and spending. User
+        friendly and intuitive navigation.
+        \n\n★ Allows the user to use voice commands when opened the application and entering expenses.
+
+        \n\n★ Easy tracking: Record incomes and expenses using speech recognition and autocomplete based on
+        your previous entries.
+
+        \n\n★ The inbuilt calculator allows calculating income and expenses.
+
+        \n\n★ Budget maker templates and custom categories to create a new monthly budget.
+
+        \n\n★ Create your own budget planner templates. You can create as many templates as you want.
+
+        \n\n★ Help calculating your debt and saving based on your income and expense information.
+
+        \n\n★ Budget forecast. Fifo will create a monthly forecast based on your previous transactions to see
+        how you spend your money so far.
+
+        \n\n★ Daily transactions monitoring. Fifo will display a pie graph that shows the variation of the
+        daily total expense.
+
+        \n\n★ Manage your account expense better with the Automatic Draft payment function. This powerful
+        expense tracker function will allow you to plan your daily, weekly, monthly or yearly
+        recurring transactions.</string>
+
+    <string name="about5">\u0009\u0009\u0009\u0009These are just a few features you will get when
+        you use Fifo as your go to budgeting tool. Fifo has many more features that are very user
+        friendly. You can see and add new transaction from one page. Whenever you insert an expense
+        transaction, this budget app will display the fields which you fill the data such as the
+        transactions amount.
+        \n\n\u0009\u0009\u0009\u0009There are many people who spend more than they earn. They have
+        problems with debt and not enough saving. They don’t track spending and they don’t plan
+        their monthly budget better. There are a lot of transactions they forget because they don’t
+        use expense tracker. They don’t know how to live off their income in responsible way. It is
+        a path to a financial disaster that will land them in trouble in the future.
+        \n\n\u0009\u0009\u0009\u0009Managing personal finance is not easy with so many things we
+        spend money on every day. Sometimes we are not conscious on how much we are spending money
+        on things that are not important. We often wonder why our income is never enough. It is time
+        to take back control of our spending. Use Fifo as your budget tracker and you can also plan
+        your budget using our budget planner, and forecast your expense for the monthly/yearly based
+        on your previous spending money habit.
+        \n\n\u0009\u0009\u0009\u0009Fifo is very user friendly to everyone so you don’t need to
+        worry you can’t use this it. This budget app is a really powerful spending tracker for
+        people who are concerned about how they spend their money. This finance software will help
+        you manage your saving and debt so that you will be responsible in financial matter and
+        avoid unnecessary expense that will cause problems in your life. Fifo your personal
+        accounting software. </string>
+
+
+    <string name="terms_and_privacy">\u0009\u0009\u0009\u0009Welcome to FIFO MOBILE APP. . (“FiFo”,
+        “our”, “us”, or “we”) and its various official partners (“Partners”) are committed to
+        protect and respect your rights to your personal data, in compliance with Republic Act No.
+        10173 or “the Data Privacy Act of 2012”; related rules, regulations, and issuances of the
+        National Privacy Commission (“NPC”); and with the adoption of constantly changing
+        commercially acceptable standards for data protection (collectively, the “Law”). Please
+        read our Privacy Statement to know the “whys”, “whats”, “whens”, “hows”, and “who’s/’re”,
+        among others, of our Statement for our community’s data protection. By expressly providing
+        your consent to our Privacy Statement and our Terms and Conditions, or by accessing,
+        benefitting from, or using, our varied platforms, whether in print or via our online
+        software systems, directly or indirectly, such as the latest official build of our FiFo
+        Mobile Application that is downloadable and the latest versions of our official mobile
+        application (“App”) (collectively, “Platforms”). The other similar platforms and other
+        services including but not limited to recording credit/payment, communicating dues/balances
+        via the site and application, any mobile or internet connected device or otherwise
+        (collectively the "Fifo Service"), you hereby acknowledge that you have read, understood,
+        and agree to the terms of our Privacy Statement, Cookie Statement, Terms and Conditions,
+        and any other documents that are referred in this Privacy Statement. You agree to having
+        your data collected, corrected, transferred, stored, retrieved, used, retained, shared,
+        deconstructed, and/or destroyed in the manner disclosed in this Privacy Statement and our
+        Terms and Conditions. This Privacy Statement applies to all people and entities accessing our
+        Platforms. This Privacy Statement (together with our Terms and Conditions, our Cookie
+        Statement, and any other documents referred herein) explains our Statement regarding the
+        collection, use, retention, disclosure and transfer of your information by Lista. This
+        Statement forms part and parcel of the Terms of Use for the Lista Services. Capitalized
+        terms which have been used here but are undefined shall have the same meaning as attributed
+        to them in the Terms of Use. Users (as defined hereinafter) are requested to read this
+        Statement in conjunction with the Terms of Use. The Application/Site facilitates the
+        provision of an online digital ledger book/record book enabling Users to document their
+        ledger entries in relation to their respective customers. It is important to note that the
+        term ‘Services’ encompasses any other prospective services FiFo may offer or propose to
+        offer. We respect the privacy of the users of the FiFo Services (“Users” or “you”) and are
+        committed to reasonably protect it in all respects. The information about the User as
+        collected by us are: (a) information supplied by Users; and (b) information automatically
+        tracked while using a mobile device having FiFo Services enabled (collectively referred to
+        as “Personal Information”). By accessing the Site, App or otherwise using the FiFo Services,
+        or by clicking on the tick box, you consent to this Statement’s terms on the collection,
+        storage, and use of the personal information you provide (including any changes thereto as
+        provided by you) for any of the FiFo Services that we offer. If you do not agree to be bound
+        by all the terms of this Privacy Statement, Cookie Statement, Terms and Conditions, and Data
+        Sharing Agreement, please exit and uninstall from your devices our Platforms and do not
+        access, use, and/or receive benefit from any of our Platforms and our collection of
+        Services. We may, at any time and at our sole discretion, amend, and update this Privacy
+        Statement. You are responsible for, among others, regularly reviewing this Privacy
+        Statement. II. DEFINITIONS “SERVICE” means the Platforms operated by FiFo. “PERSONAL DATA”
+        means any personal information and/or sensitive personal information as defined under the
+        Law, whether recorded in a material form or not, from which the identity of an individual
+        is apparent or can be reasonably and directly ascertained, or when put together with other
+        information would directly and certainly identify an individual from information either
+        in our possession or likely to come into our possession. “USAGE DATA” is data collected
+        automatically either generated by the use of Service or from Service infrastructure.</string>
+
+    <string name="privacy_policy">\u0009\u0009\u0009\u0009We care about data privacy and security. Please review our Privacy Policy  [privacy policy]. By using the Application, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Use. Please be advised the Application is hosted in the United States. If you access the Application from the European Union, Asia, or any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Application or Services, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States. [(If your market to children under 13, delete this sentence) Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children’s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 13 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Application as quickly as is reasonably practical.]</string>
+
+    <string name="start_listening">Start listening</string>
+    <string name="stop_listening">Stop listening</string>
+    <string name="say_something">Say</string>
+    <string name="introduction">Tap on one of the buttons to try an action</string>
+    <string name="tts_hint">Write something to speech</string>
+    <string name="repeat">Repeat please</string>
+    <string name="input_something">Please input something to speak!</string>
+    <string name="speech_not_available">Speech recognition is not available on this device. Do you want to install Google app to have speech recognition?</string>
+    <string name="permission_required">You need to grant the permission to use the microphone</string>
+    <string name="enable_google_voice_typing">Please enable Google Voice Typing to use speech recognition!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="set_stt_langs">Set Speech To Text Language</string>
+    <string name="set_tts_voices">Set Text To Speech Voice</string>
+    <string name="no_langs">No languages are currently available on this device</string>
+    <string name="no_tts_voices">No supported voices or you\'re running on Android API &lt; 23, which does not support querying for voices.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
